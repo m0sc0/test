@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 5
 6
+=======
+commit 1
+cambio 2
+cambio 3
+.
+>>>>>>> parent of 64f3478 (5)
